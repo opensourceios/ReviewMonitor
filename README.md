@@ -20,7 +20,9 @@ This happens using [fastlane](https://fastlane.tools), which is written in Ruby.
 ### Deploy your server
 Deploy your server and use the server url in the app. Click the Heroku button to instant deploy.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RishabhTayal/itc-api/tree/master){:target="_blank"}
+<!--[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RishabhTayal/itc-api/tree/master)-->
+
+<a href="https://heroku.com/deploy?template=https://github.com/RishabhTayal/itc-api/tree/master" target="_blank"><img src="https://www.herokucdn.com/deploy/button.svg"/> </a>
 
 
 # App Store
